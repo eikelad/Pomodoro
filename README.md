@@ -45,10 +45,12 @@ O projeto estará disponível em `http://localhost:5173/` (ou outra porta defini
 
 ## 📷 Capturas de Tela
 ### 🎨 Interface Principal
-![Screenshot](./screenshot.png)
+![image](https://github.com/user-attachments/assets/3e22e4f5-c706-4515-9c41-8d145cdae20e)
+
 
 ### 🌙 Modo Escuro
-![Dark Mode](./dark-mode.png)
+![image](https://github.com/user-attachments/assets/48b89d25-e9c4-4e62-9d0d-bd6f63ee776d)
+)
 
 ## 🏆 Contribuições
 Contribuições são bem-vindas! Para sugerir melhorias:
